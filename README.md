@@ -1,5 +1,5 @@
 # pagila-hw3
-[![tests](https://github.com/knair9/pagila-hw3/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/knair9/pagila-hw3/actions/workflows/tests.yml)
+[![tests](https://github.com/knair9/pagila-hw3/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/knair9/pagila-hw3/actions/workflows/tests.yml)
 
 ## Tasks
 
